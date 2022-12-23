@@ -65,4 +65,7 @@ Secondly, we analyze the relation of these sentiments with concerns. Calculation
 
 
 ## Conclusion
-<div align="justify">After all this analysis, we come up with the conclusion that relationships and health are the most important concern found in this study. (relate to wishes new year)</div>
+
+This new study reveals that movies are not only entertaining, but can actually shed light on important societal issues, the more prominent ones being relationship and conflict concerns. The first is associated both with positive sentiments, like joy, and with negative sentiments, like joy or sadness, and its prevalence is constantly increasing over the study period. The second is strongly related to fear and interestingly, its evolution can be linked with historical events.
+
+As a general remark about the methodology and ethics, we should point that this study was conducted in English and uses occidental oriented tools, thus the results obtained and discussed here better represents the occidental society. For example, our methods only allowed us to classify foreign movies inside topics representing their actual origin country, but we were unable to find topics representing real societal issues.
